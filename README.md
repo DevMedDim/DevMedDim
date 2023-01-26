@@ -1,7 +1,7 @@
 ### Hello World 👋
-I am a Front-End Web Developer from Morocco
-- 🔭 Working on frontend projects using ReactJS
-- 🌱 Learning design patterns in depth
+I am a Front-End Web Developer 
+- 🔭 Working on frontend projects 
+- 
 
 
 <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
